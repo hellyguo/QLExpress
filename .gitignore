@@ -20,3 +20,7 @@ hs_err_pid*
 
 test.log
 test-push.sh
+
+# vscode files
+.vscode
+
